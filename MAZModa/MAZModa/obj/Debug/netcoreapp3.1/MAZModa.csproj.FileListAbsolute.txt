@@ -1,0 +1,172 @@
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.StaticWebAssets.xml
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.exe
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.deps.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.runtimeconfig.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.runtimeconfig.dev.json
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.pdb
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.Views.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.Views.pdb
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfo.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.TagHelpers.input.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.TagHelpers.output.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorCoreGenerate.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorTargetAssemblyInfo.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorTargetAssemblyInfo.cs
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.Views.pdb
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.csproj.CopyComplete
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\staticwebassets\MAZModa.StaticWebAssets.Manifest.cache
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\staticwebassets\MAZModa.StaticWebAssets.xml
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.dll
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.pdb
+C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.genruntimeconfig.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.StaticWebAssets.xml
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.exe
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.deps.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.runtimeconfig.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.runtimeconfig.dev.json
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.pdb
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.Views.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\MAZModa.Views.pdb
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.csprojAssemblyReference.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfoInputs.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.TagHelpers.input.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.TagHelpers.output.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorCoreGenerate.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorTargetAssemblyInfo.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorTargetAssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.Views.pdb
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.csproj.CopyComplete
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\staticwebassets\MAZModa.StaticWebAssets.Manifest.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\staticwebassets\MAZModa.StaticWebAssets.xml
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.pdb
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.genruntimeconfig.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cache

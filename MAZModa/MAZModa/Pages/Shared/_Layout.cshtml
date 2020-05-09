@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Instyle Fashion HTML Template">
+    <meta name="keywords" content="instyle, fashion, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - MAZModa</title>
+
+    <!-- Favicon -->
+    <link href="~/img/favicon.ico" rel="shortcut icon" />
+
+    <!-- Stylesheets -->
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" />
+
+    <!-- Main Stylesheets -->
+    <link rel="stylesheet" href="~/css/style.css" />
+
+</head>
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Header section -->
+    <header class="header-section">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark site-navbar">
+            <a class="navbar-brand site-logo" href="index.html#">
+                <h2><span>MAZ</span>Moda</h2>
+                <p>Fashion Forward</p>
+            </a>
+            <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavId">
+                <!-- Main menu -->
+                <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">the Brand</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Shop</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog.html">blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+                <div class="social-links my-2 my-lg-0">
+                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- Header section end-->
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Back to top -->
+    <div class="container">
+        <div class="backtotop">
+            <div class="up-btn" id="backTotop">UP</div>
+        </div>
+    </div>
+
+    <!-- Footer section -->
+    <footer class="footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget fw-about">
+                        <img src="img/footer-logo.png" alt="">
+                        <p>Velit pulvinar, pellentesque neque vel, laoreet orci. Suspendisse potenti. Donec congue vel justo eget malesu ada. In arcu justo, sagittis consequat pulvinar.</p>
+                        <div class="fw-social">
+                            <a href="https://www.pinterest.com/"><i class="fa fa-pinterest"></i></a>
+                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                            <a href="https://dribbble.com/"><i class="fa fa-dribbble"></i></a>
+                            <a href="https://www.behance.net/"><i class="fa fa-behance"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget resent-post">
+                        <h2 class="fw-title">Recent Posts</h2>
+                        <div class="rp-item">
+                            <h4>Paris Fashion Week</h4>
+                            <span>21 April 2020</span>
+                        </div>
+                        <div class="rp-item">
+                            <h4>About Our Fashion App</h4>
+                            <span>21 March 2020</span>
+                        </div>
+                        <div class="rp-item">
+                            <h4>Simple Blog Post</h4>
+                            <span>21 February 2020</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget">
+                        <h2 class="fw-title">Usefull Links</h2>
+                        <ul>
+                            <li><a href="#">Testimonials</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Jobs</a></li>
+                            <li><a href="#">Reviews</a></li>
+                            <li><a href="#">Marketing</a></li>
+                            <li><a href="#">Subscribe</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget contact-widget">
+                        <h2 class="fw-title">Contact</h2>
+                        <ul>
+                            <li><span>Address : </span>El-Minya, Egypt</li>
+                            <li><span>Phone : </span>+201010101010</li>
+                            <li><span>Mail : </span>mazmoda@contact.com</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;
+            <script>document.write(new Date().getFullYear());</script> All rights reserved | Made by <i class="fa fa-heart-o" aria-hidden="true"></i> MAZModa Team
+            @*Copyright &copy;
+                <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>*@
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+        </div>
+    </footer>
+    <!-- Footer section end -->
+    @*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>*@
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/main.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
