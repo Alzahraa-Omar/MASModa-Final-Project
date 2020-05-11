@@ -154,3 +154,12 @@ C:\Users\dell\source\repos\MAZModa\MAZModa\bin\Debug\netcoreapp3.1\zh-Hant\Micro
 C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\dell\source\repos\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\Razor\Pages\RecommendStyle.cshtml.g.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.csprojAssemblyReference.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.RazorAssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfoInputs.cache
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.AssemblyInfo.cs
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.dll
+D:\ITI\Final Project\g\MAZModa\MAZModa\obj\Debug\netcoreapp3.1\MAZModa.pdb

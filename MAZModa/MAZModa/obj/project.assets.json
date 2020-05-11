@@ -8622,11 +8622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj",
+      "projectUniqueName": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj",
       "projectName": "MAZModa",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj",
+      "projectPath": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\obj\\",
+      "outputPath": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
