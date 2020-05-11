@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace MAZModa.Models
 {
-    public partial class Weights
+    public class Weights
     {
-        public Weights()
-        {
-            Style = new HashSet<Style>();
-        }
-
         public int Id { get; set; }
         public string BetweenWeight { get; set; }
 

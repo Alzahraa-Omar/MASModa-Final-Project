@@ -1,0 +1,60 @@
+﻿@page
+@model MAZModa.Pages.RecommendStyleModel
+@{
+    ViewData["Title"] = "RecommendStyle";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h3>Recommend Me Style</h3>
+
+<form>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Select Gender</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+    </select>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Choose Category</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+        <option value="3">Three</option>
+    </select>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Choose Dress Code</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+        <option value="3">Three</option>
+        <option value="3">Three</option>
+    </select>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Choose Age Range</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+    </select>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Choose Weight Range</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+    </select>
+    <select class="custom-select custom-select-lg mb-3">
+        <option selected>Choose Height Range</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+    </select>
+    <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <div class="custom-file">
+        <input type="file" class="custom-file-input" id="customFile">
+        <label class="custom-file-label" for="customFile">Choose file</label>
+    </div>
+
+    <button type="submit" class="btn btn-dark">Submit</button>
+</form>
+

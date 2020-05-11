@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj": {}
   },
   "projects": {
-    "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj": {
+    "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj",
         "projectName": "MAZModa",
-        "projectPath": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\MAZModa.csproj",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\MAZModa.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI\\Final Project\\g\\MAZModa\\MAZModa\\obj\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\MAZModa\\MAZModa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,18 +38,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
-            "Font.Awesome": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            },
-            "FontAwesome": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.3, )"
@@ -70,13 +58,13 @@
               "target": "Package",
               "version": "[3.1.3, )"
             },
-            "bootstrap": {
+            "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[4.4.1, )"
+              "version": "[3.1.0-preview1.19506.1, )"
             },
-            "font-awesome": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[3.1.0-preview1-19509-03, )"
             }
           },
           "imports": [

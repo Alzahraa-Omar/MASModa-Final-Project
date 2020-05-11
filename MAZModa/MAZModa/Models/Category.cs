@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace MAZModa.Models
 {
-    public partial class Category
+    public class Category
     {
-        public Category()
-        {
-            Style = new HashSet<Style>();
-        }
-
         public int Id { get; set; }
         public string Name { get; set; }
 
